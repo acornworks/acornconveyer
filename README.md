@@ -49,6 +49,14 @@ java -jar conveyer-[version].jar
 * conveyer.inflow-memery-min=1000
   > Minimum required memory size to receive jobs from the central message queue. It presents as mega bytes. (Default: 1000)
 
+## Job Flow Diagram
+![Flow](https://cloud.githubusercontent.com/assets/26543063/24454726/b0b95c90-14d8-11e7-9cde-865375ffe429.png)
+
+
+## Commercial Support
+This solution is open-source based project. Therefore, it can be supported by communities through GitHub's issue tracker.
+We also have consulting and commercial support services. If you want to discuss more, please contact at contact@acornworks.net.
+
 
 
 
